@@ -1,0 +1,2 @@
+set(smart_car_MESSAGE_FILES "/home/uav/ROS/car/src/smart_car/msg/Velocity.msg;/home/uav/ROS/car/src/smart_car/msg/MovementBezier.msg;/home/uav/ROS/car/src/smart_car/msg/MovementGeneric.msg;/home/uav/ROS/car/src/smart_car/msg/Movement.msg")
+set(smart_car_SERVICE_FILES "/home/uav/ROS/car/src/smart_car/srv/FrameToFrame.srv;/home/uav/ROS/car/src/smart_car/srv/KinematicsForward.srv;/home/uav/ROS/car/src/smart_car/srv/KinematicsInverse.srv")

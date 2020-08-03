@@ -1,0 +1,2 @@
+smart_car
+-DCATKIN_DEVEL_PREFIX=/home/uav/ROS/car/devel -DCMAKE_INSTALL_PREFIX=/home/uav/ROS/car/install -G Unix Makefiles
